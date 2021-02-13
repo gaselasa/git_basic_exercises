@@ -1,0 +1,135 @@
+    1  cd
+    2  ls
+    3  cd c/
+    4  cd /c
+    5  ls
+    6  cd git_folder/
+    7  ls
+    8  git cinfig --global user.name "gaselasa"
+    9  git config --global user.name "gaselasa"
+   10  git config --global user.email gaselasa@gmail.com
+   11  git clone https://github.com/gaselasa/level0.git
+   12  ls
+   13  cd level0
+   14  ls
+   15  git add .
+   16  ls
+   17  git status
+   18  git commit -m "level 0 task file" Level0Project.java
+   19  git push -u origin main
+   20  git push -u origin main
+   21  git checkout -b task0.1
+   22  git add .
+   23  git status
+   24  git commit -m " add the task0.1" 
+   25  git push origin task0.1
+   26  git pull origin main
+   27  git checkout main
+   28  git pull origin main
+   29  git add .
+   30  git status
+   31  git checkout main
+   32  git checkout -b allTask
+   33  git add .
+   34  git commit -m " add the task0.1" 
+   35  git push origin allTask
+   36  cd
+   37  cd /c
+   38  cd git_folder1/
+   39  ls
+   40  cd git_folder2/
+   41  git clone https://github.com/gaselasa/level1.git
+   42  git pull origin main
+   43  cd level1
+   44  git pull origin main
+   45  git checkout -b task1
+   46  git add .
+   47  git commmit -m "first task done"
+   48  git commit -m "first task done"
+   49  git push origin task1
+   50  git pull origin main
+   51  git checkout main
+   52  git checkout -b task2
+   53  git add .
+   54  git commit -m "task two added"
+   55  git push origin task2
+   56  git checkout -b task3
+   57  git add .
+   58  git commit -m "task 3 and 4 added"
+   59  git push origin task3
+   60  git checkout -b task5
+   61  git add .
+   62  git commit -m "task 5 added"
+   63  git push origin task5
+   64  git checkout -b changes/task1
+   65  git add .
+   66  git status
+   67  git commit -m "add the task1 that missing" changes/task1
+   68  git add .
+   69  git commit -m "add the task1 that missing" (changes/task1)
+   70  git commit -m "add the task1 that missing"
+   71  git push origin changes/task1
+   72  cd 
+   73  cd /c
+   74  cd muzi_git/
+   75  git clone https://github.com/Umuzi-org/Sanele-Gasela-219-level-1-programming-katas-java.git
+   76  cd Sanele-Gasela-219-level-1-programming-katas-java
+   77  git checkout -b changes/task1
+   78  git checkout -b allTask
+   79  git add .
+   80  git commit -m "added 1 to 5 task to this branch"
+   81  git status
+   82  git push origin allTask
+   83  cd
+   84  cd c/
+   85  cd /c
+   86  ls
+   87  mkdir git-basic-exercises
+   88  ls
+   89  cd /git-basic-exercises
+   90  cd git-basic-exercises/
+   91  ls -a
+   92  ls
+   93  git init
+   94  ls -a
+   95  git status
+   96  touch README.md
+   97  ls -a
+   98  git status
+   99  git log
+  100  git add .
+  101  git status
+  102  git commit -m "initial-commit"
+  103  git log
+  104  nano readme.md
+  105   cat readme.md
+  106  git status
+  107  git commit -m "second-commit"
+  108  git add .
+  109  git commit -m "second-commit"
+  110  git log
+  111  git checkout 6e96b1c88b1202fdb9bc9c5e0ec7a3222348c3bb
+  112  cat readme.md
+  113  git status
+  114  git checkout main
+  115  cat README.md
+  116  git checkout main
+  117  git pull origin main
+  118  git pull  main
+  119  git branch
+  120  git branch
+  121  git checkout -b milkshake-flavours
+  122  nano readme.md
+  123  git log
+  124  git status
+  125  git addd .
+  126  git add .
+  127  git commit -m "added initial flavours"
+  128  git log
+  129  git checkout main
+  130  git checkout origin main
+  131  git branch
+  132  git checkout -b history
+  133  git log
+  134  git branch
+  135  history>hitory.txt
