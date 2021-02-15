@@ -1,1 +1,1 @@
-# git_basic_exercises
+Enter text about the project
